@@ -1,0 +1,2 @@
+INSERT INTO pessoa (nome, datanascimento, cpf, funcionario, gerente) VALUES ('Gerente Principal', '1980-01-01', '111.222.333-44', true, true);
+INSERT INTO pessoa (nome, datanascimento, cpf, funcionario, gerente) VALUES ('Funcionário Comum', '1990-10-20', '333.444.555-66', true, false);
